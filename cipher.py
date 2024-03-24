@@ -18,4 +18,4 @@ for char in message:
         char = abc[index]
     encrypted_char += char
 
-print("The encrypted message is:", encrypted_char)
+print(encrypted_char)
